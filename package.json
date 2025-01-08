@@ -11,5 +11,8 @@
   },
   "author": "teqnobit",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
 }
